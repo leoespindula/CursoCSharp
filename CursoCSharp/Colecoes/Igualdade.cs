@@ -16,6 +16,10 @@ namespace CursoCSharp.Colecoes
             Console.WriteLine(p1 == p2);
             Console.WriteLine(p3 == p2);
 
+            Console.WriteLine(p1.Equals(p2));
+
+
+
         }
     }
 }
