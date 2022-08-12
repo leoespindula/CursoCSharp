@@ -17,9 +17,9 @@ namespace CursoCSharp.Colecoes
             alunos[3] = "Julio";
             alunos[4] = "Ana";
 
-            foreach (Var aluno in alunos)
+            foreach (var aluno in alunos)
             {
-                globalConsole.WriteLine(aluno);
+                Console.WriteLine(aluno);
             }
 
             double somatorio = 0;
