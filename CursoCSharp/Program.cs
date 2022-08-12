@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos;
@@ -8,7 +7,8 @@ using CursoCSharp.Colecoes;
 
 namespace CursoCSharp 
 {
-    class Program {
+    class Program
+    {
         static void Main(string[] args) 
         {
             var central = new CentralDeExercicios(new Dictionary<string, Action>()
@@ -58,8 +58,7 @@ namespace CursoCSharp
                 {"Parâmetros por Referência - Classes e Métodos", ParametrosPorReferencia.Executar },
                 {"Parâmetros Padrão - Clases e Métodos", ParametroPadrao.Executar },
                 // Coleções
-                {"Array - Classes e Métodos", ColecaoArray.Executar },
-
+                {"Array - Coleções", ColecaoArray.Executar },
 
 
 
