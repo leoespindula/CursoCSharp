@@ -43,3 +43,6 @@ C:\el\Curso\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
 C:\el\Curso\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
 C:\el\Curso\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
 C:\el\Curso\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+C:\el\Curso\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
+C:\el\Curso\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
+C:\el\Curso\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete

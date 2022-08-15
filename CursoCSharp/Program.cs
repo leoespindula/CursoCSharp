@@ -6,7 +6,7 @@ using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 
-namespace CursoCSharp 
+namespace CursoCSharp
 {
     class Program
     {
@@ -69,6 +69,7 @@ namespace CursoCSharp
                 {"Dictionary - Coleções", ColecaoDictionary.Executar },
                 {"Herança - Orientação a Objetos", Heranca.Executar },
                 {"This - Orientação a Objetos", ConstrutorThis.Executar },
+                {"Encapsulamento - Orientação a Objetos", OO.Encapsulamento.Executar },
 
 
 
