@@ -68,6 +68,7 @@ namespace CursoCSharp
                 {"Igualdade - Coleções", Igualdade.Executar },
                 {"Stack - Coleções", ColecaoStack.Executar },
                 {"Dictionary - Coleções", ColecaoDictionary.Executar },
+                //Orientação a Objetos
                 {"Herança - Orientação a Objetos", Heranca.Executar },
                 {"This - Orientação a Objetos", ConstrutorThis.Executar },
                 {"Encapsulamento - Orientação a Objetos", OO.Encapsulamento.Executar },
@@ -76,9 +77,10 @@ namespace CursoCSharp
                 {"Interface - Orientação a Objetos", Interface.Executar },
                 {"Sealed - Orientação a Objetos", Sealed.Executar },
                 //Metodos e Funções
-                {"Exemplo Lambda - Orientação a Objetos", ExemploLambda.Executar },
-
-
+                {"Exemplo Lambda - Métodos e Funções", ExemploLambda.Executar },
+                {"Lambdas Delegate - Métodos e Funções", LambdasDelegate.Executar },
+                {"Usando Delegate - Métodos e Funções", UsandoDelegate.Executar },
+                {"Delegate com Funções Anônimas - Métodos e Funções", DelegateFuncAnonima.Executar },
 
             });
 
