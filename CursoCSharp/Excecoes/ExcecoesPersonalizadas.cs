@@ -27,7 +27,7 @@ namespace CursoCSharp.Excecoes
 
             if (valor < 0)
             {
-                throw new NegativoException("Número... :(");
+                throw new NegativoException("Número negativo... :(");
             }
             if(valor % 2 == 1)
             {
