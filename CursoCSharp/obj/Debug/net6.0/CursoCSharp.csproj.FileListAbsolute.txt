@@ -46,3 +46,6 @@ C:\el\Curso\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
 C:\el\Curso\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
 C:\el\Curso\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
 C:\el\Curso\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete
+C:\Meus Projetos\C#\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
+C:\Meus Projetos\C#\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Meus Projetos\C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete

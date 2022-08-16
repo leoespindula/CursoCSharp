@@ -8,26 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\": {},
-    "D:\\componentes\\dotNet\\DevExpress 21.2\\Components\\Offline Packages": {},
+    "C:\\Users\\leona\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\el\\Curso\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+      "projectUniqueName": "C:\\Meus Projetos\\C#\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
       "projectName": "Encapsulamento",
-      "projectPath": "C:\\el\\Curso\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
-      "packagesPath": "C:\\Users\\leonardo.espindula\\.nuget\\packages\\",
-      "outputPath": "C:\\el\\Curso\\CursoCSharp\\Encapsulamento\\obj\\",
+      "projectPath": "C:\\Meus Projetos\\C#\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+      "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+      "outputPath": "C:\\Meus Projetos\\C#\\CursoCSharp\\Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\componentes\\dotNet\\DevExpress 21.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\leonardo.espindula\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -36,10 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Componentes\\dotNet\\DevExpress 21.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
-        "D:\\componentes\\dotNet\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/itZblV457gajUxww3eu2DdnyNDZhfFzOzP77cTAWVUYmWYwLRY/api": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -62,8 +56,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -72,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
