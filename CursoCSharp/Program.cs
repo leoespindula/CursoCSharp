@@ -7,6 +7,7 @@ using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
+using CursoCSharp.ExplorandoAPI;
 
 namespace CursoCSharp
 {
@@ -87,6 +88,9 @@ namespace CursoCSharp
                 //Exceções
                 {"Exceções e Tratamento de Erros - Exceções", TratamentoDeErro.Executar },
                 {"Exceções e Pesonalizadas - Exceções", ExcecoesPersonalizadas.Executar },
+                //Explorando API
+                {"Primeiro Arquivo - Explorando API", PrimeiroArquivo.Executar },
+                {"Lendo Arquivos - Explorando API", LendoArquivos.Executar },
 
             });
 
