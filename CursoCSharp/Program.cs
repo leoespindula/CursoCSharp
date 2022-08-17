@@ -93,6 +93,8 @@ namespace CursoCSharp
                 {"Lendo Arquivos - Explorando API", LendoArquivos.Executar },
                 {"Exemplo FileInfo - Explorando API", ExemploFileInfo.Executar },
                 {"Diretórios - Explorando API", Diretorios.Executar },
+                {"Exemplo Directory Info - Explorando API", ExemploDirectoryInfo.Executar },
+                {"Exemplo Path - Explorando API", ExemploPath.Executar },
 
             });
 

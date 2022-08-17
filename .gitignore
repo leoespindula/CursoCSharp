@@ -1,0 +1,10 @@
+
+*.vsidx
+*.vsidx
+*.vsidx
+*.v2
+.vs/CursoCSharp/v17/.suo
+*.dll
+*.pdb
+*.cache
+*.dll
