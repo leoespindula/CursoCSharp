@@ -96,6 +96,7 @@ namespace CursoCSharp
                 {"Exemplo Directory Info - Explorando API", ExemploDirectoryInfo.Executar },
                 {"Exemplo Path - Explorando API", ExemploPath.Executar },
                 {"Exemplo DateTime - Explorando API", ExemploDateTime.Executar },
+                {"Exemplo TimeSpan - Explorando API", ExemploTimeSpan.Executar },
 
             });
 
