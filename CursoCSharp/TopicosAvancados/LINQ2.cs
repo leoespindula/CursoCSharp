@@ -55,10 +55,10 @@ namespace CursoCSharp.TopicosAvancados
 
             var somatorioNotas = alunos.Sum(aluno => aluno.Nota);
             Console.WriteLine(somatorioNotas);
-
+            // media geral dos alunos
             var mediaDaTurma = alunos.Average(aluno => aluno.Nota);
             Console.WriteLine(mediaDaTurma);
-
+            // media somente dos aprovados 
             var mediaDaTurma2 = alunos.Where(a => a.Nota >= 7).Average(aluno => aluno.Nota);
             Console.WriteLine(mediaDaTurma2);
 
