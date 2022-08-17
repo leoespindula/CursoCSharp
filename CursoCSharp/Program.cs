@@ -8,6 +8,7 @@ using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
 using CursoCSharp.ExplorandoAPI;
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp
 {
@@ -97,6 +98,8 @@ namespace CursoCSharp
                 {"Exemplo Path - Explorando API", ExemploPath.Executar },
                 {"Exemplo DateTime - Explorando API", ExemploDateTime.Executar },
                 {"Exemplo TimeSpan - Explorando API", ExemploTimeSpan.Executar },
+                //Tópicos Avançados
+                {"LINQ #01 - Tópicos Avançados", LINQ1.Executar },
 
             });
 
